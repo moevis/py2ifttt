@@ -1,0 +1,1 @@
+from .py2ifttt import IFTTT
