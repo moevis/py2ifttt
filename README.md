@@ -13,5 +13,5 @@ pip install py2ifttt
 from py2ifttt import IFTTT
 
 ifttt = IFTTT('your key str', 'event_name')
-ifttt.notify('event name', 'value1', 'value2', 'value3')
+ifttt.notify('value1', 'value2', 'value3')
 ```
